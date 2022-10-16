@@ -1,0 +1,3 @@
+/Users/toli/Documents/programming/upload_github_nure/АПр/pz_1/2 ex/cmake-build-debug/CMakeFiles/2_ex.dir
+/Users/toli/Documents/programming/upload_github_nure/АПр/pz_1/2 ex/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/toli/Documents/programming/upload_github_nure/АПр/pz_1/2 ex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
